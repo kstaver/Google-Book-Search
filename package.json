@@ -18,6 +18,7 @@
   "homepage": "https://github.com/kstaver/Google-Book-Search#readme",
   "dependencies": {
     "apollo-server": "^3.6.1",
+    "bcrypt": "^5.0.1",
     "express": "^4.17.2",
     "mongodb": "^4.2.2",
     "node": "^17.3.0",
