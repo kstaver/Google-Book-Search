@@ -1,0 +1,27 @@
+{
+  "name": "google-book-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kstaver/Google-Book-Search.git"
+  },
+  "author": "Kendra Staver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kstaver/Google-Book-Search/issues"
+  },
+  "homepage": "https://github.com/kstaver/Google-Book-Search#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.1",
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2",
+    "node": "^17.3.0",
+    "package-lock": "^1.0.5",
+    "react": "^17.0.2"
+  }
+}
