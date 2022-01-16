@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "heroku-setup": "^1.0.0"
+  },
   "devDependencies": {
     "concurrently": "^7.0.0"
   },
