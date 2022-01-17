@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
-  This application
+  This is a MERN application that makes use of Heroku, Apollo, and MongoDB. It can be used to search and store a user's favorite books. A demonstration video on how the application works is detailed below in Usage.
 
   ## Table of Contents
   - [Description](#description)
@@ -16,19 +16,16 @@
   - [Contact Info](#contact-info)
 
   ## Installation
-
+  None involved! This application can be found on [Heroku](https://google-book-search-v2.herokuapp.com/).
 
   ## Usage
-  Check out my tutorial on how to use this application: (video of using the app).
+  Check out my tutorial on how to use this application: [Google Book Search](https://youtu.be/MCfNZtbaNOA)
 
   ## License
   This project is covered under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
   ## Contribution
   Please pay me. 😊 Just kidding (or am I!?)! You can contribute to this project by sending me an email about what you would like to add or fix.
-
-  ## Testing
-
 
   ## Questions
   You can find the link to my application [here](https://github.com/kstaver/Google-Book-Search). If you have any questions pertaining to this project, please feel free to contact me.
