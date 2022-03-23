@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
-  This is a MERN application that makes use of Heroku, Apollo, and MongoDB. It can be used to search and store a user's favorite books. A demonstration video on how the application works is detailed below in Usage.
+  This is a M.E.R.N. application that makes use of Heroku, Apollo, and MongoDB. It can be used to search and store a user's favorite books. Users can sign-up for an account, log into that account, and log out of the account. Their saved books will remain in their favorites even after logging off. Used the Google Book API for the search engine.
 
   ## Table of Contents
   - [Description](#description)
