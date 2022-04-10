@@ -4,6 +4,8 @@
 
   ## Description
   This is a M.E.R.N. application that makes use of Heroku, Apollo, and MongoDB. It can be used to search and store a user's favorite books. Users can sign-up for an account, log into that account, and log out of the account. Their saved books will remain in their favorites even after logging off. Used the Google Book API for the search engine.
+  
+  ![image](https://user-images.githubusercontent.com/32945233/162601680-38611aa1-8810-4b64-9ed8-d0641c208155.png)
 
   ## Table of Contents
   - [Description](#description)
